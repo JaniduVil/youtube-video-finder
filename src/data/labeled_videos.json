@@ -1,0 +1,62 @@
+    [
+  {
+    "video_id": "vid001",
+    "title": "Introduction to Machine Learning",
+    "description": "Learn the basics of ML algorithms like linear regression and neural networks.",
+    "category": "Tech"
+  },
+  {
+    "video_id": "vid002",
+    "title": "Easy Chocolate Cake Recipe",
+    "description": "Step-by-step guide to bake a moist chocolate cake in 30 minutes.",
+    "category": "Cooking"
+  },
+  {
+    "video_id": "vid003",
+    "title": "Python Tutorial for Beginners",
+    "description": "Full Python programming course from scratch with exercises.",
+    "category": "Tech"
+  },
+  {
+    "video_id": "vid004",
+    "title": "Morning Yoga Routine",
+    "description": "15-minute yoga flow to start your day with energy.",
+    "category": "Fitness"
+  },
+  {
+    "video_id": "vid005",
+    "title": "How to Invest in Stocks",
+    "description": "Beginner's guide to stock market investing in 2023.",
+    "category": "Finance"
+  },
+  {
+    "video_id": "vid006",
+    "title": "DIY Home Decoration Ideas",
+    "description": "Creative and budget-friendly ways to decorate your home.",
+    "category": "Lifestyle"
+  },
+  {
+    "video_id": "vid007",
+    "title": "Quantum Physics Explained",
+    "description": "Simplified explanation of quantum entanglement and superposition.",
+    "category": "Education"
+  },
+  {
+    "video_id": "vid008",
+    "title": "10-Minute Ab Workout",
+    "description": "No-equipment ab exercises for a strong core.",
+    "category": "Fitness"
+  },
+  {
+    "video_id": "vid009",
+    "title": "Building a REST API with Flask",
+    "description": "Tutorial on creating APIs using Python Flask framework.",
+    "category": "Tech"
+  },
+  {
+    "video_id": "vid010",
+    "title": "Vegan Meal Prep for the Week",
+    "description": "Healthy plant-based recipes for meal prepping.",
+    "category": "Cooking"
+  }
+]

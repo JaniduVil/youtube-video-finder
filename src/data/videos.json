@@ -1,0 +1,53 @@
+[
+  {
+    "query": "MLOps",
+    "timestamp": "2025-05-14 21:47:29.221466",
+    "videos": [
+      {
+        "video_id": "OejCJL2EC3k",
+        "title": "What is MLOps",
+        "description": "Check out watsonx: https://ibm.biz/BdvDnH It takes a lot of time, effort, and money to train a machine learning model. And yet a ...",
+        "published_at": "2023-05-26T11:00:29Z",
+        "channel_title": "IBM Technology",
+        "views": 102355,
+        "likes": 3069
+      },
+      {
+        "video_id": "-dJPoLm_gtE",
+        "title": "MLOps Course  Build Machine Learning Production Grade Projects",
+        "description": "MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning.",
+        "published_at": "2023-12-04T15:24:42Z",
+        "channel_title": "freeCodeCamp.org",
+        "views": 431579,
+        "likes": 6676
+      },
+      {
+        "video_id": "_J7HzClh4mo",
+        "title": "Top 3 MLOps Resources mlops machinelearning deeplearning",
+        "description": "Resource 1 - https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ Resource 2 ...",
+        "published_at": "2023-12-06T13:44:02Z",
+        "channel_title": "CampusX",
+        "views": 97357,
+        "likes": 10549
+      },
+      {
+        "video_id": "ZVWg18AXXuE",
+        "title": "MLOps explained  Machine Learning Essentials",
+        "description": "In this video, learn about the importance of MLOps and the processes associated with it. Download the 30-day learning journey for ...",
+        "published_at": "2021-07-30T15:00:25Z",
+        "channel_title": "Microsoft Azure",
+        "views": 198938,
+        "likes": 3110
+      },
+      {
+        "video_id": "MrurgA-IkjA",
+        "title": "What is MLOps  MLOps Explained in just 3minutes  Introduction to MLOps  Intellipaat",
+        "description": "MLOps is a set of practices that combines Machine Learning (ML), DevOps, and Data Engineering. It aims to deploy and manage ...",
+        "published_at": "2023-04-03T15:00:12Z",
+        "channel_title": "Intellipaat",
+        "views": 24981,
+        "likes": 297
+      }
+    ]
+  }
+]
